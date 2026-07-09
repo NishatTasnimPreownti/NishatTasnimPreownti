@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="180">
+<img src="https://tenor.com/lqWcE63bnNx.gif" width="180">
 </div>
 
 ## 🛠️ Tech Stack

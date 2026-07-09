@@ -6,13 +6,15 @@
 
 <a href="mailto:preownti@gmail.com"><img src="https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-
-
 </div>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="180">
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -50,12 +52,21 @@
 
 </div>
 
+<div align="center">
 
-<img src="https://tenor.com/en-GB/view/sappy-seals-seal-cute-kawaii-gif-9459375535545007717" width="180" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="130">
+<img src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" width="130">
+<img src="https://user-images.githubusercontent.com/74038190/216654106-c24cc9c0-d319-404e-9bbc-402639637bd9.gif" width="130">
+<img src="https://user-images.githubusercontent.com/74038190/216654124-2433fb55-4955-421e-9191-9cad876f08cf.gif" width="130">
 
+</div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="150">
+
+### Thanks for stopping by! 💌
 
 </div>

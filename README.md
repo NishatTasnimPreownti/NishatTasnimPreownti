@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E75480&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Hi+there%2C+I'm+Nishat+%F0%9F%91%8B;CSE+Undergrad+%40+IUT+%F0%9F%8E%93" alt="Typing SVG" valign="middle" />
-<img src="https://media1.tenor.com/m/g0Zz7oEuPmUAAAAC/sappy-seals.gif" width="120" valign="middle">
+<img src="https://media1.tenor.com/m/g0Zz7oEuPmUAAAAC/sappy-seals.gif" width="180" valign="middle">
 
 <br>
 

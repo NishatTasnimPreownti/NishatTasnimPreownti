@@ -53,76 +53,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="180" align="right">
 
-## 🏆 Achievements
 
-- 🥇 Finalist — The Infinity AI BuildFest 2026 (Marketing Tech)
-- 🥇 Finalist — IUT Code Sprint 2026
 
-## 📜 Certificates
-
-- **Web UX Design for High Converting Websites** — Frontend Masters, 2025
-- **Expert AI Generalist** — Grameenphone Academy, 2026
-
-<br clear="right">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NishatTasnimPreownti&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnimPreownti&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishatTasnimPreownti&layout=compact&theme=radical&hide_border=true" width="45%" />
-
-</div>
-
-> 💡 These cards update automatically — no need to touch them again.
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/NishatTasnimPreownti/NishatTasnimPreownti/output/github-contribution-grid-snake.svg" width="100%">
-</div>
-
-<details>
-<summary>🔧 How to make the snake move (one-time setup)</summary>
-
-Add this GitHub Action to this repo at `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: NishatTasnimPreownti
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Push it once, let the Action run, and the snake above will start eating your contribution graph. 🐍
-
-</details>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="150">
-
-### Thanks for stopping by — let's build something cute together! 💌
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 

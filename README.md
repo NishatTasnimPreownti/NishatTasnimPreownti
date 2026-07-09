@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="380">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E75480&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+there%2C+I'm+Nishat+%F0%9F%91%8B;Frontend-leaning+Full-Stack+Dev+%F0%9F%92%BB;CSE+Undergrad+%40+IUT+%F0%9F%8E%93;I+build+cute+things+that+actually+work+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E75480&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Hi+there%2C+I'm+Nishat+%F0%9F%91%8B;CSE+Undergrad+%40+IUT+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br>
 
-<a href="https://www.linkedin.com/in/nishat-tasnim-900901344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:preownti@gmail.com"><img src="https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/NishatTasnimPreownti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=NishatTasnimPreownti&style=for-the-badge&color=e75480&label=PROFILE+VIEWS" />
 
@@ -17,26 +13,6 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🌸 About Me
-
-```yaml
-name: Nishat Tasnim
-role: CSE Undergraduate @ Islamic University of Technology
-focus: Frontend-leaning Full-Stack Development
-currently_exploring: AI/LLM Integration, RAG, Cloud (AWS)
-based_in: Dhaka, Bangladesh
-fun_fact: turned a plain red brick into a "luxury e-commerce experience" once 🧱✨
-```
-
-- 🎓 CGPA 3.33/4.00, B.Sc. in Computer Science & Engineering (Software Engineering Program)
-- 💻 Comfortable across the **MERN stack**, Java, and Python
-- 🤖 Building AI-powered tools — RAG chat interfaces, LLM-based reasoning pipelines
-- ☁️ Learning cloud infra — AWS EC2, S3, Lambda, SQS/SNS
-- 🌱 Practicing Agile/Scrum, SDLC, and writing tests instead of just hoping for the best
-- 📫 Reach me at **preownti@gmail.com**
-
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150"><img src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" width="150"><img src="https://user-images.githubusercontent.com/74038190/216654106-c24cc9c0-d319-404e-9bbc-402639637bd9.gif" width="150"><img src="https://user-images.githubusercontent.com/74038190/216654124-2433fb55-4955-421e-9191-9cad876f08cf.gif" width="150">
 
 ## 🛠️ Tech Stack
 
@@ -75,8 +51,32 @@ fun_fact: turned a plain red brick into a "luxury e-commerce experience" once �
 </div>
 
 
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="180" align="right">
 
+## 🏆 Achievements
 
+- 🥇 Finalist — The Infinity AI BuildFest 2026 (Marketing Tech)
+- 🥇 Finalist — IUT Code Sprint 2026
+
+## 📜 Certificates
+
+- **Web UX Design for High Converting Websites** — Frontend Masters, 2025
+- **Expert AI Generalist** — Grameenphone Academy, 2026
+
+<br clear="right">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NishatTasnimPreownti&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnimPreownti&theme=radical&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishatTasnimPreownti&layout=compact&theme=radical&hide_border=true" width="45%" />
+
+</div>
+
+> 💡 These cards update automatically — no need to touch them again.
 
 ## 🐍 Contribution Snake
 

@@ -74,91 +74,9 @@ fun_fact: turned a plain red brick into a "luxury e-commerce experience" once �
 
 </div>
 
-## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🧱 [Resumix](https://github.com/NafisaTasnimR/Resumix.git)
-Resume builder with customizable templates, ATS checking, and shareable links.
-`MongoDB` `Express.js` `React.js` `Node.js`
-Designed ~70% of the frontend · built scoring logic that lifted ATS-match accuracy by **30%**
 
-</td>
-<td width="50%" valign="top">
-
-### 🌿 [Fyto](https://github.com/NafisaTasnimR/Fyto.git)
-Social/marketplace platform for plant tracking, AI-based plant ID, and gardening trades.
-`MongoDB` `Express.js` `React.js` `Node.js`
-Designed ~70% of the UI · built ~60% of the frontend
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [CareerPilot](https://github.com/ayeshamashiat/CareerPilor_CodeSprint)
-AI-powered career assistant — tailored CVs, interview practice, application tracking.
-`MongoDB` `Express.js` `React.js` `Node.js` `AI/LLM`
-Built the majority of the frontend (AI Chat, CV Generator, Dashboard)
-
-</td>
-<td width="50%" valign="top">
-
-### 🕵️‍♀️ FinFeluda — AI Due Diligence Copilot
-Investigates a company from documents/public data → financial health score, risk analysis, RAG-based chat.
-`Python` `LLM/RAG` `Full-Stack`
-Led full frontend + ~30% of the backend
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 [HireUp](https://github.com/NafisaTasnimR/HireUp.git)
-Java-based job search platform with auth, employer postings, and applicant tracking.
-`Java` `OOP`
-Improved filtering performance by **20%** over the prototype
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 UpNext
-Desktop app for project creation, task assignment, and progress tracking.
-`JavaFX` `Oracle Database` `Maven`
-Implemented ~30% of the application modules
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="180" align="right">
-
-## 🏆 Achievements
-
-- 🥇 Finalist — The Infinity AI BuildFest 2026 (Marketing Tech)
-- 🥇 Finalist — IUT Code Sprint 2026
-
-## 📜 Certificates
-
-- **Web UX Design for High Converting Websites** — Frontend Masters, 2025
-- **Expert AI Generalist** — Grameenphone Academy, 2026
-
-<br clear="right">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NishatTasnimPreownti&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnimPreownti&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishatTasnimPreownti&layout=compact&theme=radical&hide_border=true" width="45%" />
-
-</div>
-
-> 💡 These cards update automatically — no need to touch them again.
 
 ## 🐍 Contribution Snake
 

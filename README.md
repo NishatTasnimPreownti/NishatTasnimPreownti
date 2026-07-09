@@ -14,10 +14,6 @@
 <img src="https://media1.tenor.com/m/g0Zz7oEuPmUAAAAC/sappy-seals.gif" width="200">
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="180">
-</div>
-
 ## 🛠️ Tech Stack
 
 <div align="center">

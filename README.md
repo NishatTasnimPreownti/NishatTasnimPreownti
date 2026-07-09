@@ -6,7 +6,7 @@
 
 <a href="mailto:preownti@gmail.com"><img src="https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=NishatTasnimPreownti&style=for-the-badge&color=e75480&label=PROFILE+VIEWS" />
+
 
 </div>
 
@@ -51,7 +51,7 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="180" align="right">
+<img src="https://tenor.com/en-GB/view/sappy-seals-seal-cute-kawaii-gif-9459375535545007717" width="180" align="right">
 
 
 

@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E75480&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Hi+there%2C+I'm+Nishat+%F0%9F%91%8B;CSE+Undergrad+%40+IUT+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E75480&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Hi+there%2C+I'm+Nishat+%F0%9F%91%8B;CSE+Undergrad+%40+IUT+%F0%9F%8E%93" alt="Typing SVG" valign="middle" />
+<img src="https://media1.tenor.com/m/g0Zz7oEuPmUAAAAC/sappy-seals.gif" width="90" valign="middle">
 
 <br>
 
@@ -10,9 +11,9 @@
 
 <br>
 
-<div align="center">
-<img src="https://media1.tenor.com/m/g0Zz7oEuPmUAAAAC/sappy-seals.gif" width="200">
-</div>
+## 👋 About Me
+
+CSE undergrad at Islamic University of Technology who likes making the frontend feel a little more delightful than it needs to. I build mostly on the MERN stack, dabble in Java and Python, and lately I've been having way too much fun wiring up AI/LLM features into real projects. 🌱
 
 ## 🛠️ Tech Stack
 
@@ -62,7 +63,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-
 
 ### Thanks for stopping by! 💌
 
